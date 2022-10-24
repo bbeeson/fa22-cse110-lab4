@@ -1,0 +1,2 @@
+1. The issue is that it was adding the two numbers as strings instead of treating them as numbers.
+2. I would simply have written +num1 + +num2 = result and used the plus operator to convert each string to an integer. 
