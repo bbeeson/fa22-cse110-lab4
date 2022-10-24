@@ -20,7 +20,7 @@ Github.com
 Thu, 15 Sep 2022 22:44:30 GMT
 
 8. What was the Content-Type of the file?
-application/json; charset=utf-8
+application/json; charset=utf-8 
 
 9. Which function inside the initiating file made the request?	
 fetchData()
